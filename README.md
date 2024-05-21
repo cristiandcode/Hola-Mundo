@@ -1,4 +1,4 @@
-# Arquitectura-y-Sis-Operativos
+# Arquitectura-y-Sistemas-Operativos
 # Dynamic Devs
 Nuestro primer repositorio en github
 
