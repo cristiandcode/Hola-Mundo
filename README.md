@@ -1,5 +1,5 @@
 # Arquitectura-y-Sistemas-Operativos
-# Dynamic Devs
+# Dinamic Devs
 Nuestro primer repositorio en github
 
 El equipo de "Dinamic Devs" estudiantes de programación de la Facultad Regional de Mendoza está compuesto por jóvenes apasionados por el aprendizaje y el perfeccionamiento de sus habilidades técnicas. 
