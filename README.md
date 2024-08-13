@@ -1,4 +1,4 @@
-# Arquitectura-y-Sistemas-Operativos
+# Hola-Mundo
 # Dinamic Devs :zap:
 Nuestro primer repositorio en github
 
